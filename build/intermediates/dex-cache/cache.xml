@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_dfce6844879883c12022a5afa64f56019d1cceb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f5bb2ef04cf8e70a7695dde87b2f5d5613a3a79f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_c2006e7bfd746bcff3ff744ef74254ef0134613e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6f94c69ac7a6667a4355cdaefd309de4b2f948f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta3_2cd8d417ff7dbe9b019fd40f91b86526ec8faa76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_68e49c65745979990aeda48a407e68c5b575c106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_e5071e11e2982996ee4d21680c8369f14f381603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_11a6ca07ae92869c9fb2151185282673326a5be8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_b57d08421cbd7b22ca9db602bccc4c0a74be99cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e47f165aedee635fab63d4faac8d20dbeaeb2fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_923f7075c96bd20b2e76aeba461669d72235e587/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_886f513bdc723ada1513b14900f1cb6c16dcca0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_7535af584d021d069860d0cf9ccb13d2d906024b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_0e5230162522439bc71cd4647f4e187759229d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_d0aa54f98c372da08a347d46756400c7e8e80562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_96184fd2cc84f7b05ca1883ec8c94321e2444a60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta3_1ab74723341157fa8f13628713b797f23bba4bb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3545f48cf6c3ede4b905c1b3a147127bf3582e49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_69558b5c3d489006f27c0d02d6305bb03d03b776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f38e01c6fe98eb52451b0926733453da85df7dc2">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_648a73cba1501be98c89f7246e38abe8db2dbe50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_6f0ef7c23f93863fc4f33d7ede7047057a4b7825/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa810fa57d81ec503097109e501f5a6be393a059">
+        <dex dex="/Users/thoeunchhaykry/Desktop/Ideaplus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_53b1e9fccf067075c37b91cc39120af1b7862dba/classes.dex" />
+    </item>
+
+</items>
